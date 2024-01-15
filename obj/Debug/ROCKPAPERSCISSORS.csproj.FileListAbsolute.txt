@@ -1,0 +1,9 @@
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\bin\Debug\ROCKPAPERSCISSORS.exe.config
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\bin\Debug\ROCKPAPERSCISSORS.exe
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\bin\Debug\ROCKPAPERSCISSORS.pdb
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.csproj.AssemblyReference.cache
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.Properties.Resources.resources
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.csproj.GenerateResource.cache
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.csproj.CoreCompileInputs.cache
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.exe
+C:\Users\Noor\source\repos\ROCKPAPERSCISSORS\obj\Debug\ROCKPAPERSCISSORS.pdb
